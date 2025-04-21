@@ -5,13 +5,20 @@
     background: linear-gradient(to top, #083c46, #12606b);
   "
 >
-<div align="center" style="margin-top: 15px; margin-bottom: 15px;">
-  <img 
-    src="https://raw.githubusercontent.com/JderenthalCS/JderenthalCS/main/da5f4d9a-67fd-4268-9671-0c81ddd0efd5.png" 
-    alt="Banner Image"
-    style="width: 600px; max-width: 90%; height: auto; border-radius: 15px;" 
-  />
+<div align="center" style="margin-top: 15px; margin-bottom: 30px;">
+  <a 
+    href="https://www.linkedin.com/in/jderenthalcs/" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    <img 
+      src="https://raw.githubusercontent.com/JderenthalCS/JderenthalCS/main/da5f4d9a-67fd-4268-9671-0c81ddd0efd5.png" 
+      alt="Justin Derenthal Banner" 
+      style="width: 600px; max-width: 90%; height: auto; border-radius: 15px;" 
+    />
+  </a>
 </div>
+
  <div align="center" dir="auto" style="margin:0;padding:0;">
     <hr>
     <img
