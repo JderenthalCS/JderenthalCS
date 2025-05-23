@@ -17,7 +17,7 @@
       rel="noopener noreferrer"
     >
       <img 
-        src="https://raw.githubusercontent.com/JderenthalCS/JderenthalCS/main/derej_AnimatedBanner.gif" 
+        src="https://raw.githubusercontent.com/JderenthalCS/JderenthalCS/main/banner.gif" 
         alt="Justin Derenthal Animated Banner" 
         style="width: 1000px; max-width: 90%; height: auto; border-radius: 15px;" 
       />
