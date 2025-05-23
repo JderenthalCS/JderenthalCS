@@ -37,7 +37,7 @@
   <p>
     🔗 Check me out here:<br>
     &nbsp;&nbsp;&nbsp;&nbsp;💼 <a href="https://www.linkedin.com/in/jderenthalcs/" target="_blank" style="color:#1ad4af;">LinkedIn</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;🌐 <a href="https://jderenthalcs.github.io/JDerenthalCS.terminal/" target="_blank" style="color:#1ad4af;">Portfolio</a> <em>(New site under construction)</em><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;🌐 <a href="https://justinderenthal.dev/" target="_blank" style="color:#1ad4af;">Portfolio</a> <em></em><br>
     &nbsp;&nbsp;&nbsp;&nbsp;📘 <a href="https://leetcode.com/u/JDerenthalCS/" target="_blank" style="color:#1ad4af;">LeetCode</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;📺 <a href="https://youtube.com/@justinderenthal?si=sR0GaELDWHbHE8yG" target="_blank" style="color:#1ad4af;">YouTube</a>
   </p>
