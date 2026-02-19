@@ -29,9 +29,6 @@
     Hi, I'm <strong>Justin Derenthal</strong>, a full-stack developer and Computer Science student/TA at Farmingdale State College. I specialize in building polished desktop and web applications, exploring cybersecurity through CTFs, and developing innovative tools powered by AI.
   </p>
   <p>
-    When I’m not coding, I enjoy diving into video game lore, experimenting with 3D rendering, or generating art with tools like Stable Diffusion. I’m also a lifelong music lover with a soft spot for LoFi, <em>Berserk</em>, and weight lifting.
-  </p>
-  <p>
     I work with a wide range of languages and frameworks and am always looking to contribute to meaningful open-source projects or collaborate with creative, driven people.
   </p>
   <p>
