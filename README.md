@@ -1,47 +1,48 @@
-<body
-  style="
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(to top, #083c46, #12606b);
-    margin: 0;
-    padding: 0;
-    color: #cbf7f4;
-    font-family: 'Segoe UI', sans-serif;
-  "
->
-
-  <div style="text-align: center; margin-top: 15px; margin-bottom: 30px;">
-    <a 
-      href="https://www.linkedin.com/in/jderenthalcs/" 
-      target="_blank" 
-      rel="noopener noreferrer"
-    >
-      <img 
-        src="https://raw.githubusercontent.com/JderenthalCS/JderenthalCS/main/banner.gif" 
-        alt="Justin Derenthal Animated Banner" 
-        style="width: 1000px; max-width: 90%; height: auto; border-radius: 15px;" 
-      />
-    </a>
-
-   
-  <div style="max-width: 800px; margin: 30px auto; font-size: 1.1em; line-height: 1.6;">
-  <p>
-    Hi, I'm <strong>Justin Derenthal</strong>, a full-stack developer and Computer Science student/TA at Farmingdale State College. I specialize in building polished desktop and web applications, exploring cybersecurity through CTFs, and developing innovative tools powered by AI.
-  </p>
-  <p>
-    I work with a wide range of languages and frameworks and am always looking to contribute to meaningful open-source projects or collaborate with creative, driven people.
-  </p>
-  <p>
-    🔗 Check me out here:<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;💼 <a href="https://www.linkedin.com/in/jderenthalcs/" target="_blank" style="color:#1ad4af;">LinkedIn</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;🌐 <a href="https://justinderenthal.dev/" target="_blank" style="color:#1ad4af;">Portfolio</a> <em></em><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;📘 <a href="https://leetcode.com/u/JDerenthalCS/" target="_blank" style="color:#1ad4af;">LeetCode</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;📺 <a href="https://youtube.com/@justinderenthal?si=sR0GaELDWHbHE8yG" target="_blank" style="color:#1ad4af;">YouTube</a>
-  </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jderenthalcs/">
+    <img 
+      src="https://raw.githubusercontent.com/JderenthalCS/JderenthalCS/main/banner.gif" 
+      alt="Justin Derenthal Banner" 
+      width="900"
+    />
+  </a>
 </div>
-  
-  <p align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,js,html,css,cpp,react,tailwind,firebase,mongodb,mysql,git,github,linux,vscode,intellij" />
-    </p>
-  </div>
-</body>
+
+## Hello, I'm Justin Derenthal
+
+I'm a software engineer focused on data, automation, and full-stack development. I build real-world applications that eliminate inefficiencies and turn complex problems into scalable systems.
+
+### 🔗 Check me out here
+
+💼 [LinkedIn](https://www.linkedin.com/in/jderenthalcs/)  
+🌐 [Portfolio](https://justinderenthal.dev/)  
+📘 [LeetCode](https://leetcode.com/u/JDerenthalCS/)  
+📺 [YouTube](https://youtube.com/@justinderenthal)
+
+## Skills
+
+| Skill | Associated Project |
+|---|---|
+| Real-Time Machine Learning Systems | OpenHand – ASL Recognition |
+| Full-Stack AI Applications | Corpo – Corporate Translator 🏆 |
+| Chrome Extension Development | Jobby – Job Tracker |
+| Event-Driven System Design | Circuit Simulator |
+| Workflow Automation & Data Analysis | Help Desk Automation System |
+
+## Projects
+
+- **OpenHand** – Real-Time ASL Recognition System
+- **Corpo** – Corporate Translator 🏆 1st Place Hackathon
+- **Jobby** – Chrome Extension for Job Tracking
+- **Circuit Simulator** – Event-Driven Electrical System
+
+## Achievements
+
+- 🏆 3× 1st Place – Cybersecurity Capture the Flag (CTF)
+- 🏆 1st Place – Hackathon (Corpo)
+
+## Tools & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,tailwind,nodejs,fastapi,firebase,mongodb,mysql,azure,git,github,linux,vscode,intellij" />
+</div>
